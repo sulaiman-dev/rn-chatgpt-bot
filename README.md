@@ -1,1 +1,0 @@
-# rn-chatgpt-bot
